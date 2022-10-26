@@ -1,0 +1,31 @@
+div{
+    display:table 
+}
+h3{
+    color: red;
+    font-size: 25px;
+    font-style: ania;
+    text-align: center;
+}
+th{
+    background-color: yellow;
+    color: blue;
+    font-size: 16px;
+}
+td{
+    background: purple;
+    color: white;
+    font-size: 15px;
+}
+table{
+    border: double;
+}
+th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+div{
+    background-color: yellow;
+    width: 200px;
+    
+}

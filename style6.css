@@ -1,0 +1,8 @@
+h3{color: blue;}
+.site-header{
+    background-color: rgb(92, 199, 163);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style-type:none ;
+}

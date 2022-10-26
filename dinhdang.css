@@ -1,0 +1,22 @@
+div{
+background-color: grey;
+height: 100%; width: 50%;
+}
+#a{
+position:relative;
+background-color: red;
+right:0;
+
+height: 150px; width:200px;
+}
+h3{
+    color: black;
+}
+#b{
+    background-color:green;
+    height: 120px; width:450px;
+}
+#c{
+    background-color:yellow;
+    height: 150px; width:200px;
+}
